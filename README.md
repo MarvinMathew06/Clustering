@@ -20,3 +20,8 @@ K-means algorithm belongs to the category, prototype-based clustering. Prototype
 Working of K-means and optimization
 
 K means aims to reduce or minimise the sum of sqaured errors (SSE) within each clusters. SSE is the sum of the squared differences between each observation and the cluster centroid.At each stage of cluster analysis the total SSE is minimised with SSEtotal = SSE1 + SSE2 + SSE3 + SSE4 ….  + SSEn.
+
+The objective function which needs to be minimized:
+
+![image](https://user-images.githubusercontent.com/86583187/173990960-a14820cd-2e11-46c2-85aa-435212711c5e.png)
+
