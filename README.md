@@ -25,3 +25,10 @@ The objective function which needs to be minimized:
 
 ![image](https://user-images.githubusercontent.com/86583187/173990960-a14820cd-2e11-46c2-85aa-435212711c5e.png)
 
+How to find most optimal value of K?
+The technique used to find the most optimal value of K is draw a reduction in variation vs number of clusters (K) plot. Alternatively, one could draw the squared sum of error (SSE) vs number of clusters (K) plot. Here is the diagram representing the plot of SSE vs K (no. of clusters). In the diagram below, the point representing the optimal number of clusters can also be called as elbow point. The elbow point can be seen as the point after which the distortion/cluster inertia/SSE start decreasing in a linear fashion. 
+
+Sum of Squared Error vs Number of Clusters plot
+![image](https://user-images.githubusercontent.com/86583187/173994080-3fadca38-ad69-4683-8805-101927847fc5.png)
+
+
