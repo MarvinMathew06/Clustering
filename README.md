@@ -16,7 +16,7 @@ K-means algorithm belongs to the category, prototype-based clustering. Prototype
 
 1. Centroid-based clusters: Each cluster built around a point which is termed as the centroid (average) of similar points with continuous features. K-means algorithm results in creation of centroid-based clusters.
 2. Medoid-based clusters: Each cluster built around a point which is termed as the medoid which represents the point that minimises the distance to all other points that belong to a particular cluster, in the case of categorical features.
-**
-Working of K-means and optimization**
+
+Working of K-means and optimization
 
 K means aims to reduce or minimise the sum of sqaured errors (SSE) within each clusters. SSE is the sum of the squared differences between each observation and the cluster centroid.At each stage of cluster analysis the total SSE is minimised with SSEtotal = SSE1 + SSE2 + SSE3 + SSE4 ….  + SSEn.
