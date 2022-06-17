@@ -9,7 +9,8 @@ Among them, K-means is one of the most popular clustering algorithm. In this K c
 
 The idea is to create K clusters of data where data in each of the K clusters have greater similarity with other data in the same cluster
 
-![image](https://user-images.githubusercontent.com/86583187/173986667-167a36d8-475d-4301-a665-02c2f6d1852b.png)
+![image](https://user-images.githubusercontent.com/86583187/174216059-ca275575-7ca6-4bb6-b02d-51d6d00009b3.png)
+
 
 
 K-means algorithm belongs to the category, prototype-based clustering. Prototype-based clustering algorithms are based on one of the following: 
